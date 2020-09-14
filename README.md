@@ -1,2 +1,2 @@
 # BinaryLogic
-It's binary logic
+CSCS1200 Binary Logic
