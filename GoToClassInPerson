@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T04:51:24.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.7" etag="HCbbAVsYrnXo5yzVFTbx" type="github"><diagram id="WWAgXDgEOARXoCBqoHEc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-30T05:14:11.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="S9PtSMz8IwEEoQ5OYKzc" version="13.8.7" type="github">
+  <diagram id="WWAgXDgEOARXoCBqoHEc" name="Page-1">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XsqHg5fYr3shnmmeo0-P-1" value="How much sleep&lt;br&gt;How much gas in car&lt;br&gt;&lt;br&gt;goToClassInPerson is a String&lt;br&gt;feelingToday is a Number&lt;br&gt;thresholdFeeling is a Number&lt;br&gt;stubbornessToday is a Number&lt;br&gt;thresholdStub is a Number&lt;br&gt;sleepinessToday is a Number&lt;br&gt;thresholdSleep is a Number&lt;br&gt;gasToday is a Number&lt;br&gt;gasThreshold is a Number&lt;br&gt;&lt;br&gt;goToClassInPerson = &quot;yes&quot;&lt;br&gt;thresholdFeeling = 5&lt;br&gt;thresholdStub = 6&lt;br&gt;thresholdSleep = 3&lt;br&gt;gasThreshold = 6&lt;br&gt;&lt;br&gt;input feelingToday&lt;br&gt;If feelingToday &amp;lt;= thresholdFeeling Then &lt;br&gt;goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;input stubbornessToday&lt;br&gt;If(stubbornessToday &amp;lt;= thresholdStub)&lt;br&gt;goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;input sleepinessToday&lt;br&gt;If(sleepinessToday &amp;lt; thresholdSleep)&lt;br&gt;goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;input gasToday&lt;br&gt;If(gasToday &amp;lt; thresholdGas)&lt;br&gt;goToClassInPerson = &quot;no&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="200" width="400" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
