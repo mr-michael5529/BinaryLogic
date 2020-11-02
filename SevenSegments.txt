@@ -1,0 +1,68 @@
+One segment symbols - 7
+a
+b
+c
+d
+e
+f
+g
+
+Two segment symbols - 21
+ab bc cd de ef fg
+ac bd ce df eg
+ad be cf dg
+ae bf cg
+af bg
+ag
+
+Three segment symbols - 31
+abc acd ade aef afg
+abd ace adf aeg
+abe acf adg
+abf acg
+abg
+
+bcd bde bef bfg
+bce bdf beg
+bcf bdg
+bcg
+
+cde cef cfg
+cdf ceg
+cdg
+
+Four segment symbols - 20
+abcd acde adef aefg
+abce acdf adeg
+abcf acdg
+abcg
+
+bcde bdef befg
+bcdf bdeg
+bcfg
+
+cdef cdfg
+cdeg
+
+defg
+
+Five segment symbols - 10
+abcde acdef adefg
+abcdf acdeg
+abcdg
+
+bcdef bdefg
+bdefg
+
+cdefg
+
+Six segment symbols - 4
+abcdef acdefg
+abcdeg
+
+bcdefg
+
+Seven segment symbol - 1
+abcdefg
+
+94 total
